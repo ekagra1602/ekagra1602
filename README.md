@@ -18,4 +18,5 @@ Pursuing my BS. from Arizona State University in Computer Science.
 
 Connect with me:
 
-Languages and Tools:
+- [LinkedIn]((https://www.linkedin.com/in/ekagra16/))
+- [Portfolio](https://ekagragupta.com/)
