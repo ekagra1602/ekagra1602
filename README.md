@@ -14,7 +14,7 @@ Pursuing my BS. from Arizona State University in Computer Science.
 
 📫 How to reach me: egupta3@asu.edu  
 
-📄 [Click here Know about my experiences](./Ekagra Resume.pdf)
+📄 [Click here Know about my experiences](./Resume.pdf)
 
 Connect with me:
 
