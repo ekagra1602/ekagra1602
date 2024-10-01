@@ -2,8 +2,9 @@
                                        
                                              I'm Ekagra Gupta
                                       
-A computer science enthusiast who loves creating and exploring new things.
-Pursuing my BS. from Arizona State University in Computer Science.
+                A computer science enthusiast who loves creating and exploring new things.
+
+                    Pursuing my BS. from Arizona State University in Computer Science.
 
 
 👦 Pronouns: He/Him
