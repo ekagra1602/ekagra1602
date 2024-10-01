@@ -18,5 +18,7 @@ Pursuing my BS. from Arizona State University in Computer Science.
 
 Connect with me:
 
-- [LinkedIn]((https://www.linkedin.com/in/ekagra16/))
-- [Portfolio](https://ekagragupta.com/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="60" height="30">
+](https://www.linkedin.com/in/ekagra16/)
+
+[Portfolio](https://ekagragupta.com/)
