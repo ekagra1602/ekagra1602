@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ed3521ca-ae8e-4fd8-9e0b-c6ece2d069d4)
                                        
-                                                        I'm Ekagra Gupta
+                                                          I'm Ekagra Gupta
                                       
                                 A computer science enthusiast who loves creating and exploring new things.
 
