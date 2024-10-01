@@ -17,7 +17,5 @@ Pursuing my B.Tech from Graphic Era University, Dehradun in Artificial Intellige
 📄 [Click here Know about my experiences](./Ekagra Resume.pdf)
 
 Connect with me:
-![image](https://github.com/user-attachments/assets/ac5b0fef-20f2-4d32-80b6-a480935d44b6)
-
 
 Languages and Tools:
