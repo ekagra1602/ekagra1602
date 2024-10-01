@@ -2,8 +2,8 @@
                                        
                                              I'm Ekagra Gupta
                                       
-A computer science enthusiast from India who loves creating and exploring new things.
-Pursuing my B.Tech from Graphic Era University, Dehradun in Artificial Intelligence & Data Science.
+A computer science enthusiast who loves creating and exploring new things.
+Pursuing my BS. from Arizona State University in Computer Science.
 
 
 👦 Pronouns: He/Him
@@ -12,7 +12,7 @@ Pursuing my B.Tech from Graphic Era University, Dehradun in Artificial Intellige
 
 🌱 Fields of Interest Machine Learning & Big Data Systems
 
-📫 How to reach me egupta3@asu.edu  
+📫 How to reach me: egupta3@asu.edu  
 
 📄 [Click here Know about my experiences](./Ekagra Resume.pdf)
 
