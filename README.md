@@ -7,9 +7,9 @@
                                     Pursuing my BS. from Arizona State University in Computer Science.
 
 
-👦 Pronouns: He/Him
-
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
+
+👦 Pronouns: He/Him
 
 🔭 I’m currently working on Web development Projects
 
