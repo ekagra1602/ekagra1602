@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
-[Check out my Portfolio](https://ekagragupta.com/)
+<a href="https://ekagragupta.com/" target="_blank">Check out my Portfolio</a>
 
 🔭 I’m currently working on Web development Projects
 
