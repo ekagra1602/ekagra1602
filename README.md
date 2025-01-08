@@ -4,7 +4,7 @@
                                       
                                 A computer science enthusiast who loves creating and exploring new things.
 
-                                    Pursuing my BS. from Arizona State University in Computer Science.
+                                    Pursuing my BS. in Computer Science from Arizona State University.
 
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
