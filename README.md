@@ -15,7 +15,6 @@
 
 📫 How to reach me: egupta3@asu.edu  
 
-📄 [Click here Know about my experiences](./Resume.pdf)
 
 <a href="https://ekagragupta.com/" target="_blank">Check out my Portfolio Website here</a>
 
