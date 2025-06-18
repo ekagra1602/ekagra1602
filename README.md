@@ -7,9 +7,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
-🔭 I’m currently working on Machine Learning and Web development Projects
+🔭 I’m currently working on Machine Learning and Backend Heavy Projects
 
-🌱 Fields of Interest Machine Learning & Big Data Systems
+🌱 Fields of Interest: Machine Learning & Distributed Systems
 
 📫 How to reach me: egupta3@asu.edu  
 
