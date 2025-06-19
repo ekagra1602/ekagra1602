@@ -1,8 +1,8 @@
-                                                          I'm Ekagra Gupta
+                                                      I'm Ekagra Gupta
                                       
-                                A computer science enthusiast who loves creating and exploring new things.
+                             A computer science enthusiast who loves creating and exploring new things.
 
-                                    Pursuing my BS. in Computer Science from Arizona State University.
+                                Pursuing my BS. in Computer Science from Arizona State University.
 
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
