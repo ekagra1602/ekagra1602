@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
-🔭 I’m currently working interning at Airbnb and workinig on Personal Machine Learning and Backend Heavy Projects
+🔭 I’m currently interning at Airbnb and working on Personal Machine Learning and Backend Heavy Projects
 
 🌱 Fields of Interest: Machine Learning & Distributed Systems
 
