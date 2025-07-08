@@ -1,6 +1,6 @@
                                                       I'm Ekagra Gupta
                                       
-                             A computer science enthusiast who loves creating and exploring new things.
+                   A software devloper and machine learning enthusiast who loves creating and exploring new things.
 
                                 Pursuing my BS. in Computer Science from Arizona State University.
 
