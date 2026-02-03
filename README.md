@@ -2,12 +2,10 @@
                                       
                    A software devloper and machine learning enthusiast who loves creating and exploring new things.
 
-                                Pursuing my BS. in Computer Science from Arizona State University.
-
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
-🔭 I’m currently working at Snowflake on AI Inference and on Personal Machine Learning and Backend Projects
+🔭 I’m currently working at Snowflake on AI Inference and on Personal ML and Backend Projects
 
 🌱 Fields of Interest: Machine Learning & Distributed Systems
 
