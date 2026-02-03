@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
-🔭 I’m currently doing some research around Gaussian Splatting and working on Personal Machine Learning and Dist sys Projects
+🔭 I’m currently working at Snowflake on AI Inference and on Personal Machine Learning and Backend Projects
 
 🌱 Fields of Interest: Machine Learning & Distributed Systems
 
