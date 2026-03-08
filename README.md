@@ -9,7 +9,7 @@
 
 🌱 Fields of Interest: Machine Learning & Distributed Systems
 
-📫 How to reach me: egupta3@asu.edu  
+📫 How to reach me: ekagra16@stanford.edu
 
 
 <a href="https://ekagragupta.com/" target="_blank">Check out my Portfolio Website here</a>
