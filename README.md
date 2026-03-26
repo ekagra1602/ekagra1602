@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
-🔭 I’m currently working at Snowflake on AI Inference and on Personal ML and Backend Projects
+🔭 I’m currently working at Snowflake on AI Inference and on personal AI/ML agentic projects
 
-🌱 Fields of Interest: Machine Learning & Distributed Systems
+🌱 Fields of Interest: AI/ML & Distributed Systems
 
 📫 How to reach me: ekagra16@stanford.edu
 
