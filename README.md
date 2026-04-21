@@ -1,6 +1,6 @@
-                                                      I'm Ekagra Gupta
+                                          I'm Ekagra Gupta
                                       
-                   A software developer and machine learning enthusiast who loves creating and exploring new things.
+         A software developer and machine learning enthusiast who loves creating and exploring new things.
 
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
