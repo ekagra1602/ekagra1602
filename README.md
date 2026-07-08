@@ -9,7 +9,7 @@
 
 🌱 Fields of Interest: AI/ML & Distributed Systems
 
-📫 How to reach me: ekagra16@stanford.edu
+📫 How to reach me: ekagra1605@gmail.com
 
 
 <a href="https://ekagragupta.com/" target="_blank">Check out my Portfolio Website here</a>
