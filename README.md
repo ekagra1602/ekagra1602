@@ -5,7 +5,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
-🔭 I’m currently working at Snowflake on AI Inference and on personal AI/ML agentic projects
+🔭 I’m currently working on Infra at Airbnb and on personal AI/ML agentic projects.
+
+Last semester, I worked at Snowflake on AI Inference
 
 🌱 Fields of Interest: AI/ML & Distributed Systems
 
@@ -14,15 +16,24 @@
 
 <a href="https://ekagragupta.com/" target="_blank">Check out my Portfolio Website here</a>
 
-<h3>Languages and Tools:</h3>
+## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,go,java,js,ts,react,rust&theme=dark)](https://skillicons.dev)
+<div align="left">
 
-[![Tools](https://skillicons.dev/icons?i=vscode,github,aws,gcp,kafka,kubernetes,linux,mongodb&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,go,cpp,java,ts,react,rust,fastapi" />
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kafka,kubernetes,postgresql,mongodb,linux" />
 
+</div>
 
-Connect with me:
+## Connect With Me
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="60" height="30">
-](https://www.linkedin.com/in/ekagra16/)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ekagra16/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
